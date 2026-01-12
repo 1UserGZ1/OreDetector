@@ -1,0 +1,38 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All rights reserved"
+
+[[mods]]
+modId="oredetector"
+version="1.0.0"
+displayName="矿石探测器"
+description='''
+一个可以探测并指引附近矿石的模组。
+一只手持探测器，另一只手持矿物，右键搜索附近的对应矿石,矿石会被高亮显示，支持所有原版矿石。
+'''
+authors="DY_XiaoJiaZi"
+credits="Thanks to Minecraft Forge"
+logoFile="logo.png"
+logoBlur=false         # 可选：是否模糊图标
+
+[[dependencies.oredetector]]
+modId="forge"
+mandatory=true
+versionRange="[47.4.13,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.oredetector]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
+
+# 可选：添加其他模组依赖
+#[[dependencies.oredetector]]
+#    modId="jei"
+#    mandatory=false
+#    versionRange="[12.0.0,)"
+#    ordering="AFTER"
+#    side="CLIENT"

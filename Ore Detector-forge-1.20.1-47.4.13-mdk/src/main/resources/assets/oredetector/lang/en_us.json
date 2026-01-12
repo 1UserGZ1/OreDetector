@@ -1,0 +1,20 @@
+{
+  "item.oredetector.ore_detector": "Ore Detector",
+
+  "item.oredetector.ore_detector.desc_1": "Right-click to search for nearby ores",
+  "item.oredetector.ore_detector.desc_2": "Requires holding a mineral in offhand",
+
+  "item.oredetector.ore_detector.no_mineral": "Please hold a mineral in your offhand",
+  "item.oredetector.ore_detector.found": "Detected %d %s ore(s) in the area",
+  "item.oredetector.ore_detector.found_many": "Detected more than 10 %s ore(s) in the area",
+  "item.oredetector.ore_detector.not_found": "No %s ore found in the area",
+  "item.oredetector.ore_detector.all_destroyed": "All target ores have been destroyed",
+  "item.oredetector.ore_detector.cooldown": "Ore detector is cooling down",
+  "item.oredetector.ore_detector.deactivated": "Ore detector deactivated (not in main hand)",
+  "item.oredetector.ore_detector.wrong_dimension": "Target ores are in another dimension",
+  "item.oredetector.ore_detector.remaining": "%d ores remaining",
+
+  "item.oredetector.ore_detector.status_active": "Tracking: %s",
+
+  "itemGroup.oredetector": "Ore Detector"
+}

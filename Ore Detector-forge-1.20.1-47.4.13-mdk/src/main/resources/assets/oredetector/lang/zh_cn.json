@@ -1,0 +1,20 @@
+{
+  "item.oredetector.ore_detector": "矿石探测器",
+
+  "item.oredetector.ore_detector.desc_1": "右键使用搜索附近的矿石",
+  "item.oredetector.ore_detector.desc_2": "需要在副手持有一个矿物",
+
+  "item.oredetector.ore_detector.no_mineral": "请在副手持有一个矿物",
+  "item.oredetector.ore_detector.found": "该区域探测到 %d 个 %s 矿",
+  "item.oredetector.ore_detector.found_many": "该区域探测到超过 10 个以上的 %s 矿",
+  "item.oredetector.ore_detector.not_found": "该区域未发现 %s 矿",
+  "item.oredetector.ore_detector.all_destroyed": "所有目标矿石已被破坏",
+  "item.oredetector.ore_detector.cooldown": "矿石探测器正在冷却",
+  "item.oredetector.ore_detector.deactivated": "矿石探测器已停用（不在主手）",
+  "item.oredetector.ore_detector.wrong_dimension": "目标位于其他维度",
+  "item.oredetector.ore_detector.remaining": "剩余 %d 个矿石",
+
+  "item.oredetector.ore_detector.status_active": "正在追踪: %s",
+
+  "itemGroup.oredetector": "矿石探测器"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "forge:global_loot_modifier",
+  "entries": [
+    {
+      "type": "forge:add_item",
+      "name": "oredetector:ore_detector",
+      "weight": 1,
+      "quality": 0
+    }
+  ],
+  "conditions": [
+    {
+      "type": "forge:loot_table_id",
+      "loot_table_id": "minecraft:chests/*"
+    }
+  ]
+}

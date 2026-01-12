@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "entries": [
+    "oredetector:loot_modifiers/add_ore_detector_to_chests"
+  ]
+}
